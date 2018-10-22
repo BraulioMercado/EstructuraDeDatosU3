@@ -1,0 +1,7 @@
+c:\users\braul\source\repos\E3.3-BlackJack\E3.3-BlackJack\bin\Debug\E3.3-BlackJack.exe.config
+c:\users\braul\source\repos\E3.3-BlackJack\E3.3-BlackJack\bin\Debug\E3.3-BlackJack.exe
+c:\users\braul\source\repos\E3.3-BlackJack\E3.3-BlackJack\bin\Debug\E3.3-BlackJack.pdb
+c:\users\braul\source\repos\E3.3-BlackJack\E3.3-BlackJack\obj\Debug\E3.3-BlackJack.csproj.CoreCompileInputs.cache
+c:\users\braul\source\repos\E3.3-BlackJack\E3.3-BlackJack\obj\Debug\E3.3-BlackJack.exe
+c:\users\braul\source\repos\E3.3-BlackJack\E3.3-BlackJack\obj\Debug\E3.3-BlackJack.pdb
+c:\users\braul\source\repos\E3.3-BlackJack\E3.3-BlackJack\obj\Debug\E3.3-BlackJack.csprojResolveAssemblyReference.cache
