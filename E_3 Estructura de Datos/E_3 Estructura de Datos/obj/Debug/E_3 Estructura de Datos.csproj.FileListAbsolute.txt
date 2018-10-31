@@ -1,0 +1,6 @@
+c:\users\braul\source\repos\E_3 Estructura de Datos\E_3 Estructura de Datos\obj\Debug\E_3 Estructura de Datos.csproj.CoreCompileInputs.cache
+c:\users\braul\source\repos\E_3 Estructura de Datos\E_3 Estructura de Datos\bin\Debug\E_3 Estructura de Datos.exe.config
+c:\users\braul\source\repos\E_3 Estructura de Datos\E_3 Estructura de Datos\bin\Debug\E_3 Estructura de Datos.exe
+c:\users\braul\source\repos\E_3 Estructura de Datos\E_3 Estructura de Datos\bin\Debug\E_3 Estructura de Datos.pdb
+c:\users\braul\source\repos\E_3 Estructura de Datos\E_3 Estructura de Datos\obj\Debug\E_3 Estructura de Datos.exe
+c:\users\braul\source\repos\E_3 Estructura de Datos\E_3 Estructura de Datos\obj\Debug\E_3 Estructura de Datos.pdb
