@@ -1,0 +1,7 @@
+c:\users\braul\source\repos\PE-3(Vacas)\PE-3(Vacas)\obj\Debug\PE-3(Vacas).csprojResolveAssemblyReference.cache
+c:\users\braul\source\repos\PE-3(Vacas)\PE-3(Vacas)\obj\Debug\PE-3(Vacas).csproj.CoreCompileInputs.cache
+c:\users\braul\source\repos\PE-3(Vacas)\PE-3(Vacas)\bin\Debug\PE-3(Vacas).exe.config
+c:\users\braul\source\repos\PE-3(Vacas)\PE-3(Vacas)\bin\Debug\PE-3(Vacas).exe
+c:\users\braul\source\repos\PE-3(Vacas)\PE-3(Vacas)\bin\Debug\PE-3(Vacas).pdb
+c:\users\braul\source\repos\PE-3(Vacas)\PE-3(Vacas)\obj\Debug\PE-3(Vacas).exe
+c:\users\braul\source\repos\PE-3(Vacas)\PE-3(Vacas)\obj\Debug\PE-3(Vacas).pdb

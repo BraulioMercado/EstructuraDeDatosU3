@@ -1,0 +1,7 @@
+c:\users\braul\source\repos\PE-3(TorresDeHanoi)\PE-3(TorresDeHanoi)\bin\Debug\PE-3(TorresDeHanoi).exe.config
+c:\users\braul\source\repos\PE-3(TorresDeHanoi)\PE-3(TorresDeHanoi)\bin\Debug\PE-3(TorresDeHanoi).exe
+c:\users\braul\source\repos\PE-3(TorresDeHanoi)\PE-3(TorresDeHanoi)\bin\Debug\PE-3(TorresDeHanoi).pdb
+c:\users\braul\source\repos\PE-3(TorresDeHanoi)\PE-3(TorresDeHanoi)\obj\Debug\PE-3(TorresDeHanoi).csproj.CoreCompileInputs.cache
+c:\users\braul\source\repos\PE-3(TorresDeHanoi)\PE-3(TorresDeHanoi)\obj\Debug\PE-3(TorresDeHanoi).exe
+c:\users\braul\source\repos\PE-3(TorresDeHanoi)\PE-3(TorresDeHanoi)\obj\Debug\PE-3(TorresDeHanoi).pdb
+c:\users\braul\source\repos\PE-3(TorresDeHanoi)\PE-3(TorresDeHanoi)\obj\Debug\PE-3(TorresDeHanoi).csprojResolveAssemblyReference.cache
